@@ -50,7 +50,9 @@ Although development on MT5 stopped in the 1990's, the value of this software is
 
 ## Files
 
-SACtoDSN.pl Version 1.2
-TauP
-Seed::Response
-Seismogram
+Files available in this repository required to prepare your data for MT5 include:
+
+* SACtoDSN.pl
+* TauP
+* Seed::Response
+* Seismogram
